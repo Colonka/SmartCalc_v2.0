@@ -363,6 +363,10 @@ void CalcModel::number_check(char *form, int *count, char *out_equation) {
     }
     *count = len + len_after_dot;
   }
+  if (form[g] == 'x') {
+    c[0] = '*';
+    strcat(out_equation, c);
+  }
 }
 
 void CalcModel::check_eps(char *form, char *chis, char *chis_after,
