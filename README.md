@@ -2,7 +2,7 @@
 
 Implementation of SmartCalc v2.0 by OOP and using MVP-pattern.
 
-![calc-ezgif com-gif-to-mp4-converter](https://github.com/Colonka/SmartCalc_v2.0/assets/128917856/e066d3ed-f4cc-40ae-be0d-1a7b1803c20b)
+![calc-ezgif com-video-to-gif-converter](https://github.com/Colonka/SmartCalc_v2.0/assets/128917856/08a56efb-8ef2-4154-8576-3304fafaf0a5)
 
 ## Introduction
 
