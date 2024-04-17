@@ -2,6 +2,8 @@
 
 Implementation of SmartCalc v2.0 by OOP and using MVP-pattern.
 
+![calc-ezgif com-gif-to-mp4-converter](https://github.com/Colonka/SmartCalc_v2.0/assets/128917856/e066d3ed-f4cc-40ae-be0d-1a7b1803c20b)
+
 ## Introduction
 
 In this project I've implemented an extended version of the standard calculator in C++ in the object-oriented programming paradigm, implementing the same functions as the previously developed application in SmartCalc v1.0 project (https://github.com/Colonka/s21_calc_V1.0). This calculator version is implemented by MVC-pattern(The Model-View-Controller (MVC) pattern is a scheme of separating application modules into three macro-components: a model that contains the business logic, a view that is a UI form to interact with the program, and a controller that modifies the model by user action.)
